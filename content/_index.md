@@ -17,12 +17,12 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/Resume.pdf
+        url: uploads/resume.pdf
     design:
       css_class: dark
       background:
         color: black
-        image:
+        image: 
           # Add your image background to `assets/media/`.
           filename: bg1.svg
           filters:
@@ -30,9 +30,25 @@ sections:
           size: cover
           position: center
           parallax: false
-         
         # Card background color (CSS class)
         css_class: "bg-primary-700"
-        
+  - block: resume-skills
+    content:
+      title: Skills & Hobbies
+      username: admin
+    design:
+      show_skill_percentage: true  
+      css_class: dark
+      background:
+        color: beige
+        #image:
+        #  filename: bg1.svg
+      filters:
+        brightness: 1.0
+        size: cover
+        position: center
+        parallax: false
+        class: "bg-primary-700"
+          
 
 ---

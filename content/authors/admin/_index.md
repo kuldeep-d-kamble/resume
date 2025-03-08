@@ -95,6 +95,22 @@ work:
       - Troubleshoot and resolve technical issues to minimize system downtime.
       - Support infrastructure monitoring and proactive issue resolution.
 
+  - position: 'Linux Administrator'
+    company_name: 'TCS'
+    company_url: 'https://www.tcs.com'
+    date_start: '2018-08-01'
+    date_end: '2021-06-01'
+    summary: |
+      Responsibilities include:
+      - Administer Linux & HP-UX environments, ensuring system stability and performance.
+      - Implement and maintain secure system configurations to reduce security vulnerabilities.
+      - Deploy and manage system monitoring solutions to detect and resolve issues proactively.
+      - Conduct OS patching and upgrades to maintain security compliance.
+      - Provide infrastructure support for production environments to minimize downtime.
+      - Perform regular vulnerability assessments and implement timely patch management.
+      - Manage backup and disaster recovery processes to ensure business continuity.
+
+
 # Skills
 skills:
   - name: Technical Skills
