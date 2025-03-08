@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mr.
+title: Skool
 
 # Name pronunciation (optional)
 name_pronunciation: Kuldeep Dilip Kamble
@@ -165,7 +165,7 @@ awards:
   - title: VCA Award for Automation Implementation
     date: '2024-11-11'
     awarder: SAS Institute
-    icon: award
+    icon: trophy
     summary: |
       Recognized for successfully implementing automation strategies that improved efficiency and reduced manual interventions.
       
