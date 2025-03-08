@@ -38,6 +38,7 @@ sections:
     design:
       show_skill_percentage: true  
       css_class: custom
+      css-style: custom
       background:
         color: black
       text_color_light: true

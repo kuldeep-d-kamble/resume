@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Skool
+title: ''
 
 # Name pronunciation (optional)
 name_pronunciation: Kuldeep Dilip Kamble
