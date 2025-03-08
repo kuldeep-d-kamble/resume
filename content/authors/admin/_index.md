@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Skool
+title: Mr.
 
 # Name pronunciation (optional)
 name_pronunciation: Kuldeep Dilip Kamble
@@ -146,7 +146,7 @@ skills:
       - name: 'Playing Chess'
         description: 'I am a chess enthusiast and enjoy playing chess in my free time. It is a great way to challenge my strategic thinking and improve my problem-solving skills.'
         percent: 70
-        icon: star
+        icon: chess-pawn
       - name: Reading Books
         description: 'I love reading fiction and non-fiction books. It is a great way to expand my knowledge and imagination.'
         percent: 70
@@ -163,9 +163,9 @@ languages:
 # Awards.
 awards:
   - title: VCA Award for Automation Implementation
-    date: 'Issued Date Unknown'
+    date: '2024-11-11'
     awarder: SAS Institute
-    icon: trophy
+    icon: award
     summary: |
       Recognized for successfully implementing automation strategies that improved efficiency and reduced manual interventions.
       
@@ -185,14 +185,6 @@ awards:
     summary: |
       Gained expertise in Python scripting, automation, Git, and cloud configuration management. Applied automation techniques to real-world IT problems.
 
-  - title: Automating Real-World Tasks with Python
-    url: https://www.coursera.org/learn/automating-real-world-tasks-python
-    date: '2022-08-01'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      Developed automation scripts for handling files, working with data, and managing system processes. Gained hands-on experience in using APIs and interacting with web services.
-
   - title: Configuration Management and the Cloud
     url: https://www.coursera.org/learn/configuration-management-cloud
     date: '2021-11-01'
@@ -200,31 +192,6 @@ awards:
     icon: coursera
     summary: |
       Learned principles of configuration management, cloud-based automation, and infrastructure as code using Ansible.
-
-  - title: Introduction to Git and GitHub
-    url: https://www.coursera.org/learn/introduction-git-github
-    date: '2021-09-01'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      Acquired hands-on experience with Git version control, branching, merging, and collaboration on GitHub.
-
-  - title: Advanced Commands in Linux
-    url: https://www.coursera.org/learn/advanced-linux-commands
-    date: '2021-08-01'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      Explored advanced Linux shell commands, system monitoring, process management, and file system operations.
-
-  - title: IT Information Library Foundations Certification (ITIL)
-    url: https://www.peoplecert.org
-    date: 'Issued Date Unknown'
-    awarder: PeopleCert
-    icon: peoplecert
-    summary: |
-      Gained knowledge of IT service management best practices, ITIL framework, and service lifecycle management.
-
 
 ---
 
