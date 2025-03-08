@@ -1,7 +1,7 @@
-.skill-hover li {
+.skills-content {
     transition: transform 0.3s ease, font-size 0.3s ease;
 }
-.skill-hover li:hover {
+.skills-content :hover {
     transform: scale(1.1);
     font-size: 1.1em;
 }
