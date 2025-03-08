@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Mr.
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Kuldeep Dilip Kamble
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Kuldeep
+last_name: Kamble
 
 # Status emoji
 status:
@@ -20,167 +20,218 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Information Systems Engineer (SRE)
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: SAS Institute
+    url: https://www.sas.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: 'kuldeep.d.kamble@gmail.com'
+    label: 'E-mail Me'
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/kuldeep-d-kamble
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/kuldeepkamble/
+
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 'IT Automation'
+  - 'Artificial Intelligence'
+  - 'Machine Learning'
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: 'B.E. Computer Engineering'
+    institution: 'Savitribai Phule Pune University'
+    date_start: 'August 2009'
+    date_end: 'June 2012'
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      'Constructed a powerful foundation in Computer Engineering, integrating operating systems, core programming, and security principles. Practical expertise was gained through hands-on work with Linux, network infrastructure, and advanced data structures and algorithms'
+  - area: 'Diploma in Computer Engineering'
+    institution: 'Dr. Babasaheb Ambedkar Technological University, Lonere'
+    date_start: 'August 2006'
+    date_end: 'June 2009'
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      'GPA: 8.2/10'
+      'Courses included:'
+      - 'Data Structures and Algorithms'
+      - 'Operating Systems'
+      - 'Database Management Systems'
+      - 'Computer Networks'
+      - 'web development'
+      - 'digital electronics'
+  
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+  - position: 'Information Systems Engineer (SRE)'
+    company_name: 'SAS Institute'
+    company_url: 'https://www.sas.com'
+    date_start: 'February 2023'
+    date_end: 'present'
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Automate and manage infrastructure provisioning using Ansible & Terraform.
+      - Develop and maintain ServiceNow workflows for process optimization.
+      - Monitor and resolve automation-related issues to ensure system reliability.
+      - Manage cloud resource allocation and cost optimization strategies.
+      - Support and execute network fabric migration with minimal downtime.
+      - Provide guidance and training on automation best practices to team members.
+      - Develop and implement disaster recovery plans to ensure business continuity.
+    
+  - position: 'IT Consultant (Unix/Linux & Automation)'
+    company_name: 'capgegemini'
+    company_url: 'https://www.capgemini.com'
+    date_start: 'June 2021'
+    date_end: 'february 2023'
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Administer and automate Unix/Linux server provisioning using Ansible.
+      - Configure and maintain ServiceGuard clusters to ensure high availability.
+      - Develop and implement snapshot-based backup automation using Rubrik.
+      - Perform security hardening and compliance checks using Nessus.
+      - Conduct regular system maintenance, patching, and performance tuning.
+      - Troubleshoot and resolve technical issues to minimize system downtime.
+      - Support infrastructure monitoring and proactive issue resolution.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
+      - name: Python & Shell Scripting
+        description: "Automation, Infrastructure scripting, and CI/CD integration."
         percent: 80
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
+
+      - name: Infrastructure as Code (Terraform, Ansible)
+        description: "Infrastructure provisioning, configuration management, and cloud automation."
+        percent: 90
+        icon: server
+
+      - name: CI/CD Pipelines (GitLab, Jenkins, GitHub Actions)
+        description: "Automating software delivery and deployment workflows."
+        percent: 85
+        icon: arrow-path
+
+      - name: Kubernetes & Docker
+        description: "Container orchestration, deployment, and management."
+        percent: 75
+        icon: cube-transparent
+
+      - name: Cloud Platforms (AWS, Azure)
+        description: "Cloud administration, networking, and security management."
+        percent: 80
+        icon: cloud
+
+      - name: Monitoring & Logging (ELK, Prometheus, Grafana)
+        description: "Observability, performance monitoring, and log analytics."
+        percent: 85
         icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
+
+      - name: Linux & Windows Administration
+        description: "System administration, security hardening, and troubleshooting."
+        percent: 90
+        icon: computer-desktop
+
+      - name: Networking & Security
+        description: "VPC, Load Balancers, IAM, Security Groups, and Vulnerability Management."
+        percent: 75
+        icon: shield-check
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
-
+      - name: 'PLaying Chess'
+        description: 'I am a chess enthusiast and enjoy playing chess in my free time. It is a great way to challenge my strategic thinking and improve my problem-solving skills.'
+        percent: 70
+        icon: chess-pawn
+      - name: Reading Books
+        description: 'I love reading fiction and non-fiction books. It is a great way to expand my knowledge and imagination.'
+        percent: 70
+        icon: book-open
+      
 languages:
   - name: English
+    percent: 90
+  - name: Hindi
+    percent: 90
+  - name: Marathi
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
+  - title: VCA Award for Automation Implementation
+    date: 'Issued Date Unknown'
+    awarder: SAS Institute
+    icon: award
+    summary: |
+      Recognized for successfully implementing automation strategies that improved efficiency and reduced manual interventions.
+      
+  - title: Python for Everybody Specialization
+    url: https://www.coursera.org/specializations/python
+    date: '2022-09-01'
     awarder: Coursera
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      Learned Python programming fundamentals, data structures, web scraping, databases, and data visualization. Completed hands-on projects demonstrating real-world applications of Python.
+
+  - title: Google IT Automation with Python Specialization
+    url: https://www.coursera.org/professional-certificates/google-it-automation
+    date: '2022-08-01'
+    awarder: Coursera
+    icon: coursera
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      Gained expertise in Python scripting, automation, Git, and cloud configuration management. Applied automation techniques to real-world IT problems.
+
+  - title: Automating Real-World Tasks with Python
+    url: https://www.coursera.org/learn/automating-real-world-tasks-python
+    date: '2022-08-01'
+    awarder: Coursera
+    icon: coursera
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Developed automation scripts for handling files, working with data, and managing system processes. Gained hands-on experience in using APIs and interacting with web services.
+
+  - title: Configuration Management and the Cloud
+    url: https://www.coursera.org/learn/configuration-management-cloud
+    date: '2021-11-01'
+    awarder: Coursera
+    icon: coursera
+    summary: |
+      Learned principles of configuration management, cloud-based automation, and infrastructure as code using Ansible.
+
+  - title: Introduction to Git and GitHub
+    url: https://www.coursera.org/learn/introduction-git-github
+    date: '2021-09-01'
+    awarder: Coursera
+    icon: coursera
+    summary: |
+      Acquired hands-on experience with Git version control, branching, merging, and collaboration on GitHub.
+
+  - title: Advanced Commands in Linux
+    url: https://www.coursera.org/learn/advanced-linux-commands
+    date: '2021-08-01'
+    awarder: Coursera
+    icon: coursera
+    summary: |
+      Explored advanced Linux shell commands, system monitoring, process management, and file system operations.
+
+  - title: IT Information Library Foundations Certification (ITIL)
+    url: https://www.peoplecert.org
+    date: 'Issued Date Unknown'
+    awarder: PeopleCert
+    icon: peoplecert
+    summary: |
+      Gained knowledge of IT service management best practices, ITIL framework, and service lifecycle management.
+
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Results-driven DevOps Engineer with 8+ years of experience in IT infrastructure management, automation, and cloud-native solutions. Proven expertise in Infrastructure as Code (IaC), CI/CD pipelines, cloud security, observability, and high-availability architectures. Adept at optimizing deployments, enhancing automation, and improving system reliability, leading to increased efficiency and reduced downtime. Passionate about driving operational excellence, resilience engineering, and DevOps best practices in cloud environments
