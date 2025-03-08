@@ -37,17 +37,20 @@ sections:
       title: Skills & Hobbies
       username: admin
     design:
+      skill_hover: true
       show_skill_percentage: true  
       css_class: dark
       background:
-        color: beige
+        color: black
+      text_color_light: true
         #image:
         #  filename: bg1.svg
       filters:
         brightness: 1.0
         size: cover
         position: center
-        parallax: false
+        parallax: true
+        parallax_speed: 0.8
         class: "bg-primary-700"
           
 
