@@ -28,16 +28,14 @@ organizations:
     url: https://www.sas.com/
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'kuldeep.d.kamble@gmail.com'
+    url: 'mailto:kuldeep.d.kamble@gmail.com'
     label: 'E-mail Me'
   - icon: brands/github
     url: https://github.com/kuldeep-d-kamble
   - icon: brands/linkedin
-    url: https://www.linkedin.com/kuldeepkamble/
-
+    url: https://www.linkedin.com/in/kuldeepkamble/
 
 interests:
   - 'IT Automation'
@@ -47,30 +45,31 @@ interests:
 education:
   - area: 'B.E. Computer Engineering'
     institution: 'Savitribai Phule Pune University'
-    date_start: 'August 2009'
-    date_end: 'June 2012'
+    date_start: '2009-08-01'
+    date_end: '2012-06-30'
     summary: |
-      'Constructed a powerful foundation in Computer Engineering, integrating operating systems, core programming, and security principles. Practical expertise was gained through hands-on work with Linux, network infrastructure, and advanced data structures and algorithms'
+      Constructed a powerful foundation in Computer Engineering, integrating operating systems, core programming, and security principles. 
+      Practical expertise was gained through hands-on work with Linux, network infrastructure, and advanced data structures and algorithms.
+
   - area: 'Diploma in Computer Engineering'
     institution: 'Dr. Babasaheb Ambedkar Technological University, Lonere'
-    date_start: 'August 2006'
-    date_end: 'June 2009'
+    date_start: '2006-08-01'
+    date_end: '2009-06-30'
     summary: |
-      'GPA: 8.2/10'
-      'Courses included:'
-      - 'Data Structures and Algorithms'
-      - 'Operating Systems'
-      - 'Database Management Systems'
-      - 'Computer Networks'
-      - 'web development'
-      - 'digital electronics'
-  
+      GPA: 8.2/10
+      Courses included:
+        - Data Structures and Algorithms
+        - Operating Systems
+        - Database Management Systems
+        - Computer Networks
+        - Web Development
+        - Digital Electronics
+
 work:
   - position: 'Information Systems Engineer (SRE)'
     company_name: 'SAS Institute'
     company_url: 'https://www.sas.com'
-    date_start: 'February 2023'
-    date_end: 'present'
+    date_start: '2023-02-18'
     summary: |2-
       Responsibilities include:
       - Automate and manage infrastructure provisioning using Ansible & Terraform.
@@ -82,10 +81,10 @@ work:
       - Develop and implement disaster recovery plans to ensure business continuity.
     
   - position: 'IT Consultant (Unix/Linux & Automation)'
-    company_name: 'capgegemini'
+    company_name: 'Capgemini'
     company_url: 'https://www.capgemini.com'
-    date_start: 'June 2021'
-    date_end: 'february 2023'
+    date_start: '2021-06-01'
+    date_end: '2023-02-17'
     summary: |
       Responsibilities include:
       - Administer and automate Unix/Linux server provisioning using Ansible.
@@ -97,7 +96,6 @@ work:
       - Support infrastructure monitoring and proactive issue resolution.
 
 # Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
@@ -145,7 +143,7 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: 'PLaying Chess'
+      - name: 'Playing Chess'
         description: 'I am a chess enthusiast and enjoy playing chess in my free time. It is a great way to challenge my strategic thinking and improve my problem-solving skills.'
         percent: 70
         icon: chess-pawn
@@ -153,7 +151,7 @@ skills:
         description: 'I love reading fiction and non-fiction books. It is a great way to expand my knowledge and imagination.'
         percent: 70
         icon: book-open
-      
+
 languages:
   - name: English
     percent: 90
@@ -163,12 +161,9 @@ languages:
     percent: 100
 
 # Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: VCA Award for Automation Implementation
-    date: 'Issued Date Unknown'
+  - title: VCR Award for Automation Implementation
+    date: '2024-11-11'
     awarder: SAS Institute
     icon: award
     summary: |
@@ -190,14 +185,6 @@ awards:
     summary: |
       Gained expertise in Python scripting, automation, Git, and cloud configuration management. Applied automation techniques to real-world IT problems.
 
-  - title: Automating Real-World Tasks with Python
-    url: https://www.coursera.org/learn/automating-real-world-tasks-python
-    date: '2022-08-01'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      Developed automation scripts for handling files, working with data, and managing system processes. Gained hands-on experience in using APIs and interacting with web services.
-
   - title: Configuration Management and the Cloud
     url: https://www.coursera.org/learn/configuration-management-cloud
     date: '2021-11-01'
@@ -206,32 +193,8 @@ awards:
     summary: |
       Learned principles of configuration management, cloud-based automation, and infrastructure as code using Ansible.
 
-  - title: Introduction to Git and GitHub
-    url: https://www.coursera.org/learn/introduction-git-github
-    date: '2021-09-01'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      Acquired hands-on experience with Git version control, branching, merging, and collaboration on GitHub.
-
-  - title: Advanced Commands in Linux
-    url: https://www.coursera.org/learn/advanced-linux-commands
-    date: '2021-08-01'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      Explored advanced Linux shell commands, system monitoring, process management, and file system operations.
-
-  - title: IT Information Library Foundations Certification (ITIL)
-    url: https://www.peoplecert.org
-    date: 'Issued Date Unknown'
-    awarder: PeopleCert
-    icon: peoplecert
-    summary: |
-      Gained knowledge of IT service management best practices, ITIL framework, and service lifecycle management.
-
 ---
 
 ## About Me
 
-Results-driven DevOps Engineer with 8+ years of experience in IT infrastructure management, automation, and cloud-native solutions. Proven expertise in Infrastructure as Code (IaC), CI/CD pipelines, cloud security, observability, and high-availability architectures. Adept at optimizing deployments, enhancing automation, and improving system reliability, leading to increased efficiency and reduced downtime. Passionate about driving operational excellence, resilience engineering, and DevOps best practices in cloud environments
+Results-driven DevOps Engineer with 8+ years of experience in IT infrastructure management, automation, and cloud-native solutions. Proven expertise in Infrastructure as Code (IaC), CI/CD pipelines, cloud security, observability, and high-availability architectures. Adept at optimizing deployments, enhancing automation, and improving system reliability, leading to increased efficiency and reduced downtime. Passionate about driving operational excellence, resilience engineering, and DevOps best practices in cloud environments.
