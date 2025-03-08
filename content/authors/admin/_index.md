@@ -146,7 +146,7 @@ skills:
       - name: 'Playing Chess'
         description: 'I am a chess enthusiast and enjoy playing chess in my free time. It is a great way to challenge my strategic thinking and improve my problem-solving skills.'
         percent: 70
-        icon: chess-king
+        icon: chess-pawn
       - name: Reading Books
         description: 'I love reading fiction and non-fiction books. It is a great way to expand my knowledge and imagination.'
         percent: 70

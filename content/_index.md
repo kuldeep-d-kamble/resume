@@ -13,7 +13,7 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      text: "admin"
+      
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
@@ -30,8 +30,9 @@ sections:
           size: cover
           position: center
           parallax: false
-          parallax_speed: 0.5
+         
         # Card background color (CSS class)
         css_class: "bg-primary-700"
-        css_style: ""
+        
+
 ---
