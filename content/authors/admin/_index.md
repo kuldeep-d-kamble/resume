@@ -169,6 +169,7 @@ skills:
         icon: book-open
 
 languages:
+  - languages-percentage: false
   - name: English
     percent: 90
   - name: Hindi

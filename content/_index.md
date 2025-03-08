@@ -13,7 +13,6 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
@@ -29,7 +28,7 @@ sections:
             brightness: 1.0
           size: cover
           position: center
-          parallax: false
+          parallax: true
         # Card background color (CSS class)
         css_class: "bg-primary-700"
   - block: resume-skills
@@ -37,9 +36,8 @@ sections:
       title: Skills & Hobbies
       username: admin
     design:
-      skill_hover: true
       show_skill_percentage: true  
-      css_class: dark
+      css_class: custom
       background:
         color: black
       text_color_light: true
@@ -50,7 +48,7 @@ sections:
         size: cover
         position: center
         parallax: true
-        parallax_speed: 0.8
+        parallax_speed: 0.5
         class: "bg-primary-700"
           
 
