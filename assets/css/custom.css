@@ -1,10 +1,16 @@
 .skills-name {
+    display: inline-block;
     transition: transform 0.4s ease, font-size 0.2s ease;
 }
-.skills-name :hover {
-    /*transform: scale(1.1);*/
-    color: #007BFF;
-    text-decoration: uppercase;
-    font-size: 1.1em;
 
+.skills-name:hover {
+    transform: scale(1.1); /* Scale the entire div */
+    color: #007bff; /* Change text color on hover */
+    text-decoration: uppercase /* Add underline on hover */
 }
+
+.skills-name * {
+    transform: scale(1); /* Keep child elements at normal scale */
+    color: white; /* Reset text color for child elements */
+    text-decoration: none; /* Reset underline for child elements */
+
