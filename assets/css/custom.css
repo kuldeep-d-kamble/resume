@@ -1,10 +1,10 @@
 .skills-name {
-    transition: transform 0.4s ease, font-size 0.3s ease;
+    transition: transform 0.4s ease, font-size 0.2s ease;
 }
 .skills-name :hover {
-    #transform: scale(1.1);
-    text-color: #007BFF;
+    /*transform: scale(1.1);*/
+    color: #007BFF;
     text-decoration: uppercase;
     font-size: 1.1em;
-    font-color: #007BFF;
+
 }
