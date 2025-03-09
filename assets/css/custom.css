@@ -12,8 +12,8 @@
     text-decoration: none; /* Reset underline for child elements */
 
 .skills-icon:hover {
-    transition: rotate 0.4s ease 0s;
+    transition: rotate(360deg);
 }
-section#section-resume-skills * {
-    color:white
+section#section-resume-skills .*
+    color:white;
 }
